@@ -1,4 +1,4 @@
 two file
 two file2
 two file3
-dev branch chong & tu
+dev branch chong and tu
